@@ -30,7 +30,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <br>
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif"  />
 
 - 👷 Working on:
 Enhancing Full Stack Development skills.
@@ -49,11 +49,11 @@ UI/UX design, Java, Full Stack Development.
 
 - ⚡ Fun fact:
 Nickname: Casper, my gaming alias!
+<br>
 
 
 
-<!--Gif aboutme-->
-<!-- <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />-->
+
 
 
   
