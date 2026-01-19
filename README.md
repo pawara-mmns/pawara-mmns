@@ -75,13 +75,13 @@ Nickname: Casper, my gaming alias!
   <a href="https://github.com/pawara-mmns">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pawara-mmns&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <!-- <a href="https://github.com/pawara-mmns">
+  <a href="https://github.com/pawara-mmns">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pawara-mmns&layout=compact&langs_count=8&theme=algolia"/>
-  </a> -->
+  </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pawara-mmns&theme=dark&hide_border=true"/>
-</p>
+</p> -->
 
 <br>
 <p align="center">
